@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/3881e2a1-2733-47e7-9684-d64b5d5aac38)
 
+- Used an online cipher identifier 
 - Using a ROT13 shift cipher
 - Used cyberchef to decrypt
 
